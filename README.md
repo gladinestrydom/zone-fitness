@@ -1,6 +1,7 @@
-
+<img src="running.png" align="right" style="width: 200px">
 
 # Zone Fitness Static Site
+> Still a work in progress!
 
 Zone Fitness is a fitness project that shows a simple static website that is response to all screen sizes. This project was an idea of mine to challenge myself by using Git and Github for the first time on a project.
 
